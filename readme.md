@@ -22,7 +22,7 @@ chmod = Changes file or directory permissions.
 
 git status = Displays the current state of the Git repository.
 
-git add = Stages changes for the next commit
+git add = Stages changes for the next commit.
 
 git commit = Saves staged changes to the Git repository
 
