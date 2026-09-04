@@ -12,7 +12,7 @@ cp = Copies files or directories.
 
 mv = Moves or renames a file or directory.
 
-rm = Removes files or directory
+rm = Removes files or directory.
 
 cat = Displays the contents of the file
 
