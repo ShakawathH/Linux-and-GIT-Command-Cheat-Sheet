@@ -1,6 +1,6 @@
 cd = Changing current directory.
 
-mkdir = Creates a new directory
+mkdir = Creates a new directory.
 
 pwd = Displays current working directory.
 
