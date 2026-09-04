@@ -1,4 +1,4 @@
-cd = Changing current directory
+cd = Changing current directory.
 
 mkdir = Creates a new directory
 
