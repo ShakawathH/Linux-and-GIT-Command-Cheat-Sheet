@@ -10,7 +10,7 @@ touch = Creates a new file.
 
 cp = Copies files or directories.
 
-mv = Moves or renames a file or directory
+mv = Moves or renames a file or directory.
 
 rm = Removes files or directory
 
