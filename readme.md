@@ -16,7 +16,7 @@ rm = Removes files or directory.
 
 cat = Displays the contents of the file.
 
-grep = Searches for text inside files
+grep = Searches for text inside files.
 
 chmod = Changes file or directory permissions
 
