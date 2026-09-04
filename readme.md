@@ -2,7 +2,7 @@ cd = Changing current directory
 
 mkdir = Creates a new directory
 
-pwd = Displays current working directory
+pwd = Displays current working directory.
 
 ls = Lists files and directories
 
