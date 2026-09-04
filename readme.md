@@ -18,7 +18,7 @@ cat = Displays the contents of the file.
 
 grep = Searches for text inside files.
 
-chmod = Changes file or directory permissions
+chmod = Changes file or directory permissions.
 
 git status = Displays the current state of the Git repository
 
