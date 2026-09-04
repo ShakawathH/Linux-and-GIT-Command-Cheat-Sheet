@@ -14,7 +14,7 @@ mv = Moves or renames a file or directory.
 
 rm = Removes files or directory.
 
-cat = Displays the contents of the file
+cat = Displays the contents of the file.
 
 grep = Searches for text inside files
 
