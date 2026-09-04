@@ -20,7 +20,7 @@ grep = Searches for text inside files.
 
 chmod = Changes file or directory permissions.
 
-git status = Displays the current state of the Git repository
+git status = Displays the current state of the Git repository.
 
 git add = Stages changes for the next commit
 
