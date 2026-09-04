@@ -6,7 +6,7 @@ pwd = Displays current working directory.
 
 ls = Lists files and directories.
 
-touch = Creates a new file
+touch = Creates a new file.
 
 cp = Copies files or directories
 
