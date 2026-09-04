@@ -4,7 +4,7 @@ mkdir = Creates a new directory
 
 pwd = Displays current working directory.
 
-ls = Lists files and directories
+ls = Lists files and directories.
 
 touch = Creates a new file
 
