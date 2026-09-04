@@ -26,4 +26,4 @@ git add = Stages changes for the next commit.
 
 git commit = Saves staged changes to the Git repository.
 
-git log = Displays the commit history
+git log = Displays the commit history.
